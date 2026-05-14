@@ -92,13 +92,14 @@ Potential future features:
 
 ## Homepage / Questionnaire
 
-[ INSERT SCREENSHOT HERE ]
+![](info.png)
 
 ---
 
 ## Radar Chart & Results
 
-[ INSERT SCREENSHOT HERE ]
+![](results.png)
+![](radar.png)
 
 ---
 
@@ -114,3 +115,8 @@ Radar Visualization (Plotly)
 Supabase PostgreSQL Database
      ↓
 Future Analytics / ML Pipeline
+```
+## Breno Larocerie Zamponi
+
+[Click here - Linkedin](https://www.linkedin.com/in/breno-zamponi-b3bb2a2aa/)
+
